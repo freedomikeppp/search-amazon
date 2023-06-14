@@ -63,3 +63,4 @@ Linuxサーバや適当なRaspberryPi(Raspbian)でcronから定期実行する�
 */2 * * * * cd /to/your/repsitory/path/search-amazon; . /your/local/virtualenvs/bin/activate;python generator.py
 ```
 
+
